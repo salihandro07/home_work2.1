@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="song_titles">
+        <item>Drake - Hotline Bling</item>
+        <item>The Weeknd - Blinding Lights</item>
+        <item>Eminem - Without Me</item>
+        <!-- Добавляйте остальные песни -->
+    </string-array>
+
+    <string-array name="song_lyrics">
+        <item>This is the lyrics of song 1...</item>
+        <item>This is the lyrics of song 2...</item>
+        <item>This is the lyrics of song 2...</item>
+    </string-array>
+</resources>
